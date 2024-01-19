@@ -16,7 +16,7 @@ This data analysis project aims to provide insight into the salary prospects of 
 
 ### Data Sources
 
-Data Salaries: The primary dataset used for this analysis is the “ds_salaries.csv” file, containing detailed information about each data science role, country codes and salaries.
+Data Salaries: The primary dataset used for this analysis is the “ds_salaries.xlsx” file, containing detailed information about each data science role, country codes and salaries.
 
 Country ISO data codes: The source is an open source from international country codes [Country ISO Code Link](https://www.worlddata.info/countrycodes.php) 
 
