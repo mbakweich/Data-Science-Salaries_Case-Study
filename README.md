@@ -44,6 +44,11 @@ EDA involved exploring the salary data to answer key questions such as:
 
 ### Data Analysis
 
+![Entry Level with Max  salary in USD](https://github.com/mbakweich/Data-Science-Salaries_Case-Study/assets/147742980/58d2b030-3bcb-4b4a-9b63-f547981e7439)
+
+![Average Data analyst salary in the US](https://github.com/mbakweich/Data-Science-Salaries_Case-Study/assets/147742980/bddbe7ea-07ec-4c8d-a8bd-8fc0521562e3)
+
+![3 countries with highest salaries for entry data analyst](https://github.com/mbakweich/Data-Science-Salaries_Case-Study/assets/147742980/891557e5-914f-4681-92fa-1db8a19544a0)
 
 
 ### Results / Findings
