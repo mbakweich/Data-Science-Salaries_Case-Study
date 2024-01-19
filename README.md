@@ -5,12 +5,16 @@
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
+- [Data Preparation](#data-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Results](#results)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
 
 
 
 ### Project Overview
+---
 
 This data analysis project aims to provide insight into the salary prospects of data roles across different countries over the past year. By analysing various aspects of the salary data, we hope to identify trends and gain a deeper understanding of the various opportunities that are available in the field.
 
@@ -51,7 +55,7 @@ EDA involved exploring the salary data to answer key questions such as:
 ![3 countries with highest salaries for entry data analyst](https://github.com/mbakweich/Data-Science-Salaries_Case-Study/assets/147742980/891557e5-914f-4681-92fa-1db8a19544a0)
 
 
-### Results / Findings
+### Results
 
 The analysis results are summarized as follows:
 1. Machine learning Engineers and Machine learning scientist are the hightest paid entry level data science roles.
@@ -68,3 +72,9 @@ The continued growth on a tremendous scale of data science in recent years and t
 
 
 ### References
+
+😄
+💻
+
+
+
