@@ -3,10 +3,10 @@
 
 ## Table of Contents
 
-- [Project Overview](###project-overview)
+- [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Recommendations](#recommendations)
-- [Limitations / Assumptions](#limitations/assumptions)
+- [Limitations](#limitations)
 
 
 
@@ -59,8 +59,7 @@ The continued growth on a tremendous scale of data science in recent years and t
 1. Companies can implement additional incentives and non-work-related activities amongst team members that would not only aim at attracting talented data scientist but will seek to retain them.
 2. Encourage young students to pursuing this dynamic career path that is actively evolving, fulfilling and with great career prospects.
 
-### Limitations / Assumptions
+### Limitations
 
-No Limitations or assumptions were made
 
 ### References
