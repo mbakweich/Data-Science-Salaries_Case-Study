@@ -52,7 +52,8 @@ EDA involved exploring the salary data to answer key questions such as:
 
 ![Average Data analyst salary in the US](https://github.com/mbakweich/Data-Science-Salaries_Case-Study/assets/147742980/bddbe7ea-07ec-4c8d-a8bd-8fc0521562e3)
 
-![3 countries with highest salaries for entry data analyst](https://github.com/mbakweich/Data-Science-Salaries_Case-Study/assets/147742980/891557e5-914f-4681-92fa-1db8a19544a0)
+![3 countries with highest salaries for entry level data analyst](https://github.com/mbakweich/Data-Science-Salaries_Case-Study-Using-POWERBI/assets/147742980/487f1b12-2289-4f4f-a3af-4194944f7031)
+
 
 
 ### Results
