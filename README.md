@@ -61,7 +61,7 @@ EDA involved exploring the salary data to answer key questions such as:
 The analysis results are summarized as follows:
 1. Machine learning Engineers and Machine learning scientist were the highest paid entry level data science roles.
 2. The trend reviews a geometry increase in the salaries of Data Analyst in the US. This is in line with the high demand of data analyst because of growing data.
-3. It also reveals the top 3 countries with the highest paying salaries for data analyst to be the US, Canada and the United Kingdom
+3. It also reveals the top 3 countries with the highest paying salaries for data analyst to be the US, Canada and France
 
 ### Recommendations
 
