@@ -1,4 +1,4 @@
-### Case-Study
+### Case-Study Using PowerBI
 # Data Science Salaries - Analysis
 
 ## Table of Contents
@@ -35,8 +35,8 @@ Country ISO data codes: The source is an open source from international country 
 
 In the initial data preparation phase, we performed the following task:
 1. Using PowerBI, Data set was Extracted, Loaded and Transformed using the Power Quary tool.
-2. Data was visually inspected, table renamed, data type asigned using the change type.
-3. conditional columns were added to clarify the abbrevations. Afterwards Country ISO codes where Loaded and marged with the salary table using the country codes as the reference to LEFT JOIN.
+2. Data was visually inspected, table renamed, data type assigned using the change type.
+3. Conditional columns were added to clarify the abbreviations. Afterwards Country ISO codes were Loaded and merged with the salary table using the country codes as the reference to LEFT JOIN.
 
 ### Exploratory Data Analysis
 
@@ -59,9 +59,9 @@ EDA involved exploring the salary data to answer key questions such as:
 ### Results
 
 The analysis results are summarized as follows:
-1. Machine learning Engineers and Machine learning scientist are the hightest paid entry level data science roles.
-2. The trend reviews a geometry increase in the salaries of Data Analyst in the US. This is in line with the high demand od data analyst as a result of growing data available.
-3. It also reveals the top 3 countries with the hest pay salaries for data analyst to be the US, Austrialia and the United Kingdom
+1. Machine learning Engineers and Machine learning scientist were the highest paid entry level data science roles.
+2. The trend reviews a geometry increase in the salaries of Data Analyst in the US. This is in line with the high demand of data analyst because of growing data.
+3. It also reveals the top 3 countries with the highest paying salaries for data analyst to be the US, Canada and the United Kingdom
 
 ### Recommendations
 
