@@ -43,7 +43,7 @@ In the initial data preparation phase, we performed the following task:
 EDA involved exploring the salary data to answer key questions such as:
 
 - which Entry Level job title earns the maximum salary in USD?
-- Show The trend of the average salary od Data Analyst in the US
+- Show The trend of the average salary of Data Analyst in the US
 - Get the top 3 countries that pay the highest salaries for Entry Level Data Analyst
 
 ### Data Analysis
@@ -61,11 +61,11 @@ EDA involved exploring the salary data to answer key questions such as:
 The analysis results are summarized as follows:
 1. Machine learning Engineers and Machine learning scientist were the highest paid entry level data science roles.
 2. The trend reviews a geometry increase in the salaries of Data Analyst in the US. This is in line with the high demand of data analyst because of growing data.
-3. It also reveals the top 3 countries with the highest paying salaries for data analyst to be the US, Canada and France
+3. It also reveals the top 3 countries with the highest paying salaries for data analyst to be the US, Canada, and France
 
 ### Recommendations
 
-The continued growth on a tremendous scale of data science in recent years and the competition amongst companies for data science professional to leverage their data and drive smart business decisions in on the rise. As a result, employers are willing to pay top salaries to talented data scientist. 
+The continued growth on a tremendous scale of data science in recent years and the competition amongst companies for data science professional to leverage their data and drive smart business decisions is on the rise. As a result, employers are willing to pay top salaries to talented data scientist. 
 1. Companies can implement additional incentives and non-work-related activities amongst team members that would not only aim at attracting talented data scientist but will seek to retain them.
 2. Encourage young students to pursuing this dynamic career path that is actively evolving, fulfilling and with great career prospects.
 
